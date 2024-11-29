@@ -25,7 +25,8 @@ Your challenge is to build out this social links profile and get it looking as c
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![screenshot-1](./assets/images/Screenshot 1.png)
+![screenshot-2](./assets/images/Screenshot 2.png)
 
 
 
