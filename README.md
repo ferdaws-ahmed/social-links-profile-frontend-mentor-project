@@ -25,9 +25,8 @@ Your challenge is to build out this social links profile and get it looking as c
 
 ### Screenshot
 
-![screenshot-1](./images/screenshot-1.png)
-![screenshot-2](./images/screenshot-2.png)
-
+![screenshot-1](https://github.com/user-attachments/assets/dd124df3-b4b8-426c-8d75-42cb381df5de)
+![screenshot-2](https://github.com/user-attachments/assets/91eb8b48-b004-4233-86e5-9f6fbb51e301)
 
 
 ## Where to find everything
