@@ -77,7 +77,7 @@ Having built the foundation of this project with HTML and CSS, I aim to enrich i
 - [Md.Ferdaws Alif]
 - Frontend Mentor - [@alif-mahmuud](https://www.frontendmentor.io/profile/alif-mahmuud)
 
-- github [ @ferdaws-ahmed ]
+- github [ @ferdaws-ahmed ](https://github.com/ferdaws-ahmed)
 
 
 
