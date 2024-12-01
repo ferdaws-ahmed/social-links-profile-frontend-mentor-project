@@ -44,8 +44,8 @@ There is also a `style-guide.md` file containing the information you'll need, su
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](alifs-project.surge.sh)
+- Live Site URL: [live site URL here](alifs-project.surge.sh)
 
 ## My process
 
@@ -76,6 +76,8 @@ Having built the foundation of this project with HTML and CSS, I aim to enrich i
 
 - [Md.Ferdaws Alif]
 - Frontend Mentor - [@alif-mahmuud](https://www.frontendmentor.io/profile/alif-mahmuud)
+
+- github [ ferdaws-ahmed ]
 
 
 
