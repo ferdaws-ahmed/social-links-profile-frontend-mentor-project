@@ -68,7 +68,7 @@ Having built the foundation of this project with HTML and CSS, I aim to enrich i
 ### Useful resources
 
 - [w3 schools](https://www.w3schools.com/) 
-- [stack over flow](https://stackoverflow.com/)
+- [stack over flow](https://stackoverflow.com/) abc
 
 
 
