@@ -46,6 +46,7 @@ There is also a `style-guide.md` file containing the information you'll need, su
 
 - Solution URL: [solution URL here](alifs-project.surge.sh)
 - Live Site URL: [live site URL here](alifs-project.surge.sh)
+- Github live link: [ github link here](https://ferdaws-ahmed.github.io/social-links-profile-frontend-mentor-project/)
 
 ## My process
 
