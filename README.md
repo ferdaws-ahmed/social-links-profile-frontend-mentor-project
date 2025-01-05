@@ -7,7 +7,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 - [Overview]
   - [The challenge]
   - [Screenshot]
-  - [Links]
+  - [Links] 
   - [Built with]
   - [What I learned]
   - [Continued development]
