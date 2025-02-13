@@ -10,7 +10,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [Links] 
   - [Built with] 
   - [What I learned]
-  - [Continued development]
+  - [Continued development] 
   - [Useful resources]
 - [Author]
 - [Acknowledgments]
